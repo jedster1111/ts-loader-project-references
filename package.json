@@ -1,0 +1,12 @@
+{
+  "name": "ts-loader-project-references",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jed Thompson <jedster1111@hotmail.co.uk>",
+  "license": "MIT",
+  "private": true,
+  "workspaces": ["a", "b"],
+  "devDependencies": {
+    "typescript": "^3.9.3"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "extends": "../tsconfig-base.json",
+  "references": [
+    { "path": "../b" }
+  ],
+  "compilerOptions": {
+    "outDir": "dist",
+    "rootDir": "src"
+  }
+}
